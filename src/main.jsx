@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import WhatsAppMessageViewer from '../whatsapp-message-viewer.tsx'
+import WhatsAppMessageViewer from './WhatsAppMessageViewer.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(

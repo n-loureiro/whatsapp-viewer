@@ -9,8 +9,4 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets',
   },
-  esbuild: {
-    loader: 'jsx',
-    include: /src\/.*\.[jt]sx?$/,
-  },
 })

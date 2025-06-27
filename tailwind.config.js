@@ -2,8 +2,7 @@
 module.exports = {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-    "./whatsapp-message-viewer.tsx"
+    "./src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {},
