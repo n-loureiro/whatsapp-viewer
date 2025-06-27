@@ -45,3 +45,6 @@ This project is configured for GitHub Pages deployment with GitHub Actions.
 ## License
 
 MIT
+
+---
+*Deployed via GitHub Pages*
